@@ -1,0 +1,136 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #f9f2ea;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 67px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 29px;
+  position: absolute;
+  left: 922px;
+  top: 33px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "InclusiveSans-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "InclusiveSans-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "InclusiveSans-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.bmgt-407 {
+  color: #6a3e25;
+  text-align: left;
+  font-family: "InclusiveSans-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 95px;
+  top: 33px;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1243px;
+  position: absolute;
+  left: 95px;
+  top: 162px;
+}
+.bmgt-407-information-systems-projects {
+  color: #6a3e25;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-group-1-is-completing-a-project-about-kung-fu-tea-s-inventory-system {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  height: 155px;
+}
+.professor-paul-t-shapiro {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.professor-paul-t-shapiro-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.professor-paul-t-shapiro-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-weight: 500;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-weight: 500;
+}
+.semester-details-spring-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.semester-details-spring-2026-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-spring-2026-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-weight: 500;
+}
